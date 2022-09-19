@@ -1,11 +1,11 @@
 This project is back-end of taskapp
 https://github.com/RuanPS01/taskapp
 
-# Taskapp (ReactJS aplication)
-SQL (PostgreSQL), Rest API Java and ReactJS app
+# Taskapp-api (Rest API Java)
+Database: SQL (PostgreSQL)
+Front-end: ReactJS
 
 ##
-
 Txt with the SQL command to create the database in PostgreSQL: 
 https://github.com/RuanPS01/taskapp/blob/main/sql_taskapp_postgresql_db.txt
 
