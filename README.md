@@ -3,7 +3,7 @@ https://github.com/RuanPS01/taskapp
 
 # Taskapp-api (Rest API Java)
 
-Database: SQL (PostgreSQL)
+Database: PostgreSQL
 
 Front-end: ReactJS
 
